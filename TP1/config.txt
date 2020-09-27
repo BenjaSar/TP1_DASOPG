@@ -1,0 +1,5 @@
+path=/home/user/monedas.csv
+timeout=5
+
+
+
